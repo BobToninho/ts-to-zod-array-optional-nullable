@@ -1,0 +1,10 @@
+{
+  "name": "ts-to-zod-array-optional-nullable",
+  "packageManager": "yarn@3.2.1",
+  "scripts": {
+    "example": "ts-to-zod example.ts example.zod.ts"
+  },
+  "dependencies": {
+    "ts-to-zod": "1.11.0"
+  }
+}
